@@ -1,2 +1,4 @@
-# holidayics
-ics files for holiday
+# 放假安排的ICS文件
+包括平日休息和双休日上班的ics日历文件
+
+网上搜不到=，=
